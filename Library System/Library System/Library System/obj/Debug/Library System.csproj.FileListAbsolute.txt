@@ -1,0 +1,18 @@
+F:\Second year term 2\C#\Final Exam + Project\Library System\Library System\bin\Debug\Books.mdf
+F:\Second year term 2\C#\Final Exam + Project\Library System\Library System\bin\Debug\Books_log.ldf
+F:\Second year term 2\C#\Final Exam + Project\Library System\Library System\bin\Debug\Students.mdf
+F:\Second year term 2\C#\Final Exam + Project\Library System\Library System\bin\Debug\Students_log.ldf
+F:\Second year term 2\C#\Final Exam + Project\Library System\Library System\bin\Debug\Library System.exe.config
+F:\Second year term 2\C#\Final Exam + Project\Library System\Library System\bin\Debug\Library System.exe
+F:\Second year term 2\C#\Final Exam + Project\Library System\Library System\bin\Debug\Library System.pdb
+F:\Second year term 2\C#\Final Exam + Project\Library System\Library System\obj\Debug\Library System.exe
+F:\Second year term 2\C#\Final Exam + Project\Library System\Library System\obj\Debug\Library System.pdb
+C:\Users\السباعي\Desktop\Library System\Library System\Library System\bin\Debug\Books.mdf
+C:\Users\السباعي\Desktop\Library System\Library System\Library System\bin\Debug\Books_log.ldf
+C:\Users\السباعي\Desktop\Library System\Library System\Library System\bin\Debug\Students.mdf
+C:\Users\السباعي\Desktop\Library System\Library System\Library System\bin\Debug\Students_log.ldf
+C:\Users\السباعي\Desktop\Library System\Library System\Library System\bin\Debug\Library System.exe.config
+C:\Users\السباعي\Desktop\Library System\Library System\Library System\bin\Debug\Library System.exe
+C:\Users\السباعي\Desktop\Library System\Library System\Library System\bin\Debug\Library System.pdb
+C:\Users\السباعي\Desktop\Library System\Library System\Library System\obj\Debug\Library System.exe
+C:\Users\السباعي\Desktop\Library System\Library System\Library System\obj\Debug\Library System.pdb
